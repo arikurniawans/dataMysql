@@ -1,2 +1,2 @@
 # dataMysql
-Kumpulan data mysqlku
+Kumpulan data mysqlku di GITHUB
